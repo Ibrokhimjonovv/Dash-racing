@@ -1,0 +1,6 @@
+.left-ad {
+    background-color: red;
+    width: 250px;
+    height: 100vh;
+    position: fixed;
+}
